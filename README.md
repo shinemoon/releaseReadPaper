@@ -45,6 +45,8 @@ https://github.com/shinemoon/releaseReadPaper
 
 总体来讲，白色阈值越高，字体越细，但是此时会出现笔画发虚或者坑坑洼洼的情况，所以必须承认这也是压缩带来的损失，使得字体效果是有折扣的，为了达到较好的显示效果，有时要反复调校一下参数——
 
+![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.png)
+
 所以在工具中增加了预览图片生成的功能，以提高调校效率；而调校的标准大致就是看让笔画完整性和毛刺能到达一个较好的平衡即可。当然不用太紧张于演示图片效果似乎总不够完美——距离产生美，实际显示在远小于显示器图片尺寸的屏幕上时，其实会好很多。
 
 ![GeneratePreview](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.png)
