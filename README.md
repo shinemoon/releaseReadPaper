@@ -48,12 +48,12 @@ https://github.com/shinemoon/releaseReadPaper
 
 ## 图样
 
-锁屏
+锁屏    
 ![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo.jpg)
 
-阅读菜单
+阅读菜单    
 ![demoI](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demoI.jpg)
 
-主菜单
+主菜单    
 ![demoII](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demoII.jpg)
 
