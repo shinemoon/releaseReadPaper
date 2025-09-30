@@ -40,6 +40,15 @@ https://github.com/shinemoon/releaseReadPaper
 希望后面可以有更多的出色的开放硬件和固件可供大家把玩，有问题也可以到Github的issue来讨论。
 
 
+## 壁纸生成工具
+
+尺寸裁剪调整，灰度化，这些虽然简单，但是毕竟也是个啰嗦的事情，为了方便点，顺便也做了个快速处理壁纸的工具，在壁纸生成工具下。
+
+
+![ImageConvertor](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/imageConvertor.png)
+
+
+
 ## 安装
 
 到M5Stack的烧录程序中搜索**ReadPaper**即可
