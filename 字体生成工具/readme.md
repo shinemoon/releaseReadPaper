@@ -11,4 +11,4 @@
     * **JINGHUA3_30.bin:**                  京华老宋体，很有特点的字体，模仿旧报纸印刷体，其实不适合大部头的阅读，但是必须可以有一个来看看效果，而且字库几乎最全（据作者说是手搓+AI）；
 
 
-![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.png)
+![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.jpg)

@@ -49,7 +49,7 @@ https://github.com/shinemoon/releaseReadPaper
 
 所以在工具中增加了预览图片生成的功能，以提高调校效率；而调校的标准大致就是看让笔画完整性和毛刺能到达一个较好的平衡即可。当然不用太紧张于演示图片效果似乎总不够完美——距离产生美，实际显示在远小于显示器图片尺寸的屏幕上时，其实会好很多。
 
-![GeneratePreview](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.png)
+![GeneratePreview](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.jpg)
 
 
 ## 壁纸生成工具
