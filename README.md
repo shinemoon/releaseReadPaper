@@ -2,22 +2,34 @@
 
 Y.A.P.T.R. 
 ![Screen](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/cover.png)
-----
+
+## 简介
 Yet Another PaperS3 Text Reader: 出于个人趣味的一个读书固件。
 
 - 双击解锁
 - 左右翻页
 - 点击中心区域菜单
 
+## 版本更新
+
+- V1.0.1 Alpha: 增强了索引逻辑的保护和书籍切换间的稳定性，优化了书籍列表的切换逻辑；
+- V1.0  Alpha:  初始发布版本
+
+## 字体生成工具
 唯独字体稍微多啰嗦两句：
 
 为了效率和容纳更多的生僻字，使用了进一步压缩的bin文件字体，生成工具和部分字体可以在字体生成工具目录里找到。下载之后，解压7z，有GUI界面帮助生成，需要自行调整字体大小和白色阈值。也有几个已经生成的字体供下载和测试。
 
 https://github.com/shinemoon/releaseReadPaper
 
+
+![GenerateTool](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/generateTool.png)
+
 总体来讲，白色阈值越高，字体越细，但是此时会出现笔画发虚或者坑坑洼洼的情况，所以必须承认这也是压缩带来的损失，使得字体效果是有折扣的，为了达到较好的显示效果，有时要反复调校一下参数——
 
 所以在工具中增加了预览图片生成的功能，以提高调校效率；而调校的标准大致就是看让笔画完整性和毛刺能到达一个较好的平衡即可。当然不用太紧张于演示图片效果似乎总不够完美——距离产生美，实际显示在远小于显示器图片尺寸的屏幕上时，其实会好很多。
+
+![GeneratePreview](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.png)
 
 不能免俗， 感谢M5Stack的轻巧设计；
 
@@ -25,6 +37,23 @@ https://github.com/shinemoon/releaseReadPaper
 
 题外话，就普通使用来说‘阅读卡片’绝对是一个更平衡和有前途的选择，@梦西游啊游大佬的技术实力和热情都让人佩服，如果不是因为我想借机会摸索一遍开发流程，其实这个轮子是大可不必造的。
 
-希望后面可以有更多的出色的开放硬件和固件可供大家把玩，有问题也可以到上述的Github的issue来讨论。
+希望后面可以有更多的出色的开放硬件和固件可供大家把玩，有问题也可以到Github的issue来讨论。
 
-@shinemoon
+
+## 安装
+
+到M5Stack的烧录程序中搜索**ReadPaper**即可
+![M5StackBurn](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/publish.png)
+
+
+## 图样
+
+锁屏
+![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo.png)
+
+阅读菜单
+![demoI](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demoI.png)
+
+主菜单
+![demoII](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demoII.png)
+
