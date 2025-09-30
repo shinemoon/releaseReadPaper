@@ -23,7 +23,7 @@ Yet Another PaperS3 Text Reader: 出于个人趣味的一个读书固件。
 
 https://github.com/shinemoon/releaseReadPaper
 
-**文件路劲避免使用中文!!!**
+**文件路径避免使用中文!!!**
 
 ![GenerateTool](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/generateTool.png)
 
@@ -46,7 +46,7 @@ https://github.com/shinemoon/releaseReadPaper
 
 尺寸裁剪调整，灰度化，这些虽然简单，但是毕竟也是个啰嗦的事情，为了方便点，顺便也做了个快速处理壁纸的工具，在壁纸生成工具下。
 
-**文件路劲避免使用中文!!!**
+**文件路径避免使用中文!!!**
 
 ![ImageConvertor](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/imageConvertor.png)
 
