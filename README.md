@@ -1,7 +1,7 @@
 # ReadPaper
 
 Y.A.P.T.R. 
-![Screen](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo.jpg)
+![Screen](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/cover.jpg)
 ----
 Yet Another PaperS3 Text Reader: 出于个人趣味的一个读书固件。
 
