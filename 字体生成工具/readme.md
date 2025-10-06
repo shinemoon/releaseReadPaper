@@ -9,6 +9,7 @@
     * **FZSongKBXKJW-R.bin:**               方正秀刻本宋楷 - 简体，很雅致的楷体，缺点是偏淡，仅简体字库;
     * **HYSongYunLangHeiW_40.bin:**         汉仪宋韵朗黑， 相对持中的黑体字，不过个人对黑体比较无感;
     * **JINGHUA3_30.bin:**                  京华老宋体，很有特点的字体，模仿旧报纸印刷体，其实不适合大部头的阅读，但是必须可以有一个来看看效果，而且字库几乎最全（据作者说是手搓+AI）；
+    * **GenKiMin2TW-L:**                  「源樣明體」是基於思源宋體的開放原始碼中文字型。 採用思源宋體韓文（KR）版本的字符，配合繁體中文慣用的置中標點，可排版傳統印刷體風格的文件。；
 
 
 ![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.jpg)
