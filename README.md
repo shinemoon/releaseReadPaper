@@ -11,11 +11,12 @@ Yet Another PaperS3 Text Reader: 出于个人趣味的一个读书固件。
 - 点击中心区域菜单
 
 ## 版本更新
+V1.2.9.1:  深色模式支持/壁纸工具优化，调整壁纸加载逻辑；
 V1.2.9:	支持竖排，调整字体压缩方式并更新了字体生成工具（**此版本之前生成的字体建议利用工具重新生成或重新从本仓库下载，才能达到最佳效果**），调整锁屏样式；
-V1.2:	    繁简转换支持 / 部分问题的解决和修正
-V1.1:		可以按照最近打开来浏览书籍/增强了书籍索引的稳定性/内存消耗优化/网页上传优化和稳定性增强
-V1.0.2 Alpha:	字体和索引相关逻辑优化
-V1.0.1 Alpha: 	索引冲突的稳定性增强及部分操作优化
+V1.2:	    繁简转换支持 / 部分问题的解决和修正；
+V1.1:		可以按照最近打开来浏览书籍/增强了书籍索引的稳定性/内存消耗优化/网页上传优化和稳定性增强；
+V1.0.2 Alpha:	字体和索引相关逻辑优化； 
+V1.0.1 Alpha: 	索引冲突的稳定性增强及部分操作优化；
 
 ## 字体壁纸相关
 
@@ -25,12 +26,13 @@ V1.0.1 Alpha: 	索引冲突的稳定性增强及部分操作优化
 
 - 放置在/font目录下
 - 然后在主菜单中选择启用
-- 字体文件大小没有限制（不是..)，因为用下面的工具生成的文件size非常稳定在4MB左右……
+- 字体文件大小没有限制（不是..)，因为用下面的工具生成的文件size最大4MB左右，通常在2MB以内
+- 注意字体切换会导致书籍（如果当前索引不是在所切换的字体下完成的）索引强制重新开始并且跳转到第一页
 
 ### 壁纸
 
 - 放置在/image目录下
-- 如果该目录下有图片存在，锁屏时会随机选中一张作为锁屏背景。
+- 如果该目录下有图片存在，优先设定当前书籍同名壁纸，然后是default.png，如果都没有，则使用系统自带壁纸（不再用随机壁纸）。
 
 
 ## 字体生成工具
@@ -73,7 +75,15 @@ https://github.com/shinemoon/releaseReadPaper
 ## 图样
 
 锁屏    
-![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo.jpg)
+![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo1.jpg)
+![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo3.jpg)
+
+竖排阅读
+
+![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo2.jpg)
+
+深色模式
+![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo4.jpg)
 
 阅读菜单    
 ![demoI](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demoI.jpg)
