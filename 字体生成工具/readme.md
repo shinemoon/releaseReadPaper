@@ -4,12 +4,13 @@
     * `FontGenerator.7z` - 请解压使用
 
 - 已生成字体：
-    * **ChillHuoSong_F_Regular_60.bin:**    寒蝉活宋体 - （前）默认字体，个人感觉最接近纸质，缺点是毛刺感；
-    * **FZPingXYSJW.bin:**                  方正屏显雅宋，如果不是因为字库比较小，原本是我打算作为默认字体的选项，对于高压缩比和小字体的表现极佳；
-    * **FZSongKBXKJW-R.bin:**               方正秀刻本宋楷 - 简体，很雅致的楷体，缺点是偏淡，仅简体字库;
-    * **HYSongYunLangHeiW_40.bin:**         汉仪宋韵朗黑， 相对持中的黑体字，不过个人对黑体比较无感;
-    * **JINGHUA3_30.bin:**                  京华老宋体，很有特点的字体，模仿旧报纸印刷体，其实不适合大部头的阅读，但是必须可以有一个来看看效果，而且字库几乎最全（据作者说是手搓+AI）；
-    * **GenKiMin2TW-L:**                  「源樣明體」是基於思源宋體的開放原始碼中文字型。 採用思源宋體韓文（KR）版本的字符，配合繁體中文慣用的置中標點，可排版傳統印刷體風格的文件。；
-
-
-![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/fontdemo.jpg)
+    * **寒蝉半圆体**: ChillRoundM.bin
+    ![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/字体生成工具/ChillRoundM.png)
+    * **源流明体**: GenRyuMinTW-Regular.bin
+    ![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/字体生成工具/GenRyuMinTW-Regular.png)
+    * **ViVo Sans**: vivoSans-Regular.bin
+    ![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/字体生成工具/vivoSans-Regular.png)
+    * **文鼎楷体**: WendingJianZhongKai.bin
+    ![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/字体生成工具/WendingJianZhongKai.png)
+    * **方正屏显雅宋**: FangZhengPinxian_60.bin
+    ![Font](https://github.com/shinemoon/releaseReadPaper/blob/main/字体生成工具/FangZhengPinxian_60.png)
