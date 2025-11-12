@@ -40,7 +40,7 @@ ReadPaper Utils@Firefox: 审查中
 - 注意字体切换会导致书籍（如果当前索引不是在所切换的字体下完成的）索引强制重新开始并且跳转到第一页
 - 从扩展界面进行字体压缩调整以及生成 (老的打包程序依然保留可以使用，但是类似的，后续可能不再更新）
 
-![GUI](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/font.png)
+![GUI](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/Font.png)
 
 
 为了效率和容纳更多的生僻字，使用了进一步压缩的bin文件字体，生成工具和部分字体可以在字体生成工具目录里找到。下载之后，解压7z，有GUI界面帮助生成，需要自行调整字体大小和白色阈值。也有几个已经生成的字体供下载和测试。
@@ -64,7 +64,7 @@ ReadPaper Utils@Firefox: 审查中
 ## 图样
 
 锁屏    
-![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo1.jpg)
+![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo.jpg)
 ![demo](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/demo3.jpg)
 
 竖排阅读
