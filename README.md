@@ -11,12 +11,6 @@ Yet Another PaperS3 Text Reader: 出于个人趣味的一个读书固件。
 - 点击中心区域菜单
 - AllinOne的浏览器扩展管理工具
 
-## 版本更新
-V1.3:       基于浏览器扩展管理工具上线/ API / 索引逻辑优化 ；
-V1.2.10:	深色模式支持/壁纸工具优化，调整壁纸加载逻辑；/支持竖排，调整字体压缩方式并更新了字体生成工具（**此版本之前生成的字体建议利用工具重新生成或重新从本仓库下载，才能达到最佳效果**），调整锁屏样式/ 自适应旋转；
-V1.2:	    繁简转换支持 / 部分问题的解决和修正；
-V1.1:		可以按照最近打开来浏览书籍/增强了书籍索引的稳定性/内存消耗优化/网页上传优化和稳定性增强；
-
 ## 客户端工具
 
 ![GUI](https://github.com/shinemoon/releaseReadPaper/blob/main/pics/ExtCover.png)
@@ -30,6 +24,9 @@ V1.1:		可以按照最近打开来浏览书籍/增强了书籍索引的稳定性
 ReadPaper Utils@Firefox: 审查中   
 
 安卓移动端：在Firefox上架前，推荐狐猴浏览器然后从内嵌Chrome或者Edge市场安装.
+
+为了配合扩展的文件访问，实现了API，理论上只要API一致，就可以通过扩展实现简单管理。
+[API](https://github.com/shinemoon/releaseReadPaper/blob/main/WIFI_HTTP_API.md)
 
 
 ### 字体
