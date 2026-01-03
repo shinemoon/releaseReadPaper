@@ -1,3 +1,8 @@
+**本Rep已经废弃， 最新的信息请参见[WIKI](https://github.com/shinemoon/M5ReadPaper/wiki)的细节**
+
+
+----
+
 # ReadPaper
 
 Y.A.P.T.R. 
